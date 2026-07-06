@@ -1,6 +1,6 @@
 # Karishma Rajput — Portfolio
 
-A personal portfolio website for **Karishma Rajput**, a Software Developer and Data Science Engineer (B.Tech CSE — Data Science, NSUT Delhi). Built with vanilla HTML, CSS, and JavaScript — no frameworks, no build step.
+A personal portfolio website made by **Karishma Rajput**, a Student of B.Tech CSE — Data Science, NSUT Delhi.
 
 ---
 
